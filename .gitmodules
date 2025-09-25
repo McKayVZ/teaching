@@ -1,0 +1,3 @@
+[submodule "academic"]
+	path = academic
+	url = git@github.com:McKayVZ/academic

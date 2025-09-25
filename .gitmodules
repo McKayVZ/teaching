@@ -1,0 +1,3 @@
+[submodule "language/academic"]
+	path = language/academic
+	url = git@github.com:McKayVZ/academic

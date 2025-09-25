@@ -1,0 +1,34 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Teaching Recurring Tasks
+
+* List of Recurring Tasks :TASK:RECURRING:TEACHING:META:
+** ABORTED Math tutor 1 :MATH:
+CLOSED: [2025-08-07 Thu 21:42]
+:PROPERTIES:
+:LAST_REPEAT: [2025-08-07 Thu 21:02]
+:END:
+- *OBJECTIVE:* Get ready for upcoming SAC
+- *Material:* [[id:898b2fbd-436f-44f8-b284-4c044f64c16a][Calculus syllabus]]
+-----
+#+NAME:LOGBOOK
+#+HTML:<details>
+#+HTML:<summary>LOGBOOK</summary>
+:LOGBOOK:
+- State "ABORTED"    from "TODO"       [2025-08-07 Thu 21:02]
+- State "ABORTED"    from "TODO"       [2025-08-04 Mon 05:27]
+- State "ABORTED"    from "TODO"       [2025-07-28 Mon 16:34]
+- State "ABORTED"    from "TODO"       [2025-07-21 Mon 16:18]
+- State "DONE"       from "TODO"       [2025-07-14 Mon 23:51]
+- Note taken on [2025-09-14 Sun 20:48] \\
+  - [X] *OBJECTIVE:* Find parabola equation via [[id:c05472a1-eb44-4efc-8cfa-c8f384f2c511][Vertex form of a Parabola]]
+  - [X] *OBJECTIVE:* Methods to [[id:01ca62f7-0500-4790-9ba8-93aa13bd1a64][Estimating cross-section area]]
+- [ ] *OBJECTIVE:* This is a test link [[https://google.com][google.com]]
+- State "ABORTED"    from "TODO"       [2025-07-13 Sun 22:19]
+- State "DOING"      from "PARTIAL"    [2025-07-12 Sat 06:34]
+- Note taken on [2025-09-14 Sun 20:22] \\
+  *W1*: Checkout out formula $f(x) = a(x - h)^2 + k$ of a =Parabola=
+:END:
+#+HTML:</details>
+-----

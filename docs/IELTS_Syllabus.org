@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID: 3d5bab79-2e45-4c50-ad03-0da722392222
+:END:
+#+TITLE: IELTS Syllabus
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:TEACHING:IELTS:
+#+HTML:<details>
+
+* PENDING IELTS Syllabus :DOC:META:TEACHING:IELTS:
+:PROPERTIES:
+:ID:       237192a4-e192-438d-87ad-9e5df105a5c8
+:END:
+#+HTML:</details>
+- *OBJECTIVE:* Compose an =ielts= syllabus for teaching review purpose

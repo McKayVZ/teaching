@@ -1,0 +1,15 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Teaching Oneoff Tasks
+
+* List of Oneoff Tasks :TASK:ONEOFF:TEACHING:META:
+** PENDING Teaching IELTS :IELTS:
+:PROPERTIES:
+:Effort:   30:00
+:ID:       07a3cbb5-704c-4ced-9bd6-7911918ec01b
+:END:
+- *OBJECTIVE:* Setup a teaching syllabus
+- *Reference:* [[id:237192a4-e192-438d-87ad-9e5df105a5c8][IELTS syllabus @Org]]
+  - [[https://www.ieltsadvantage.com/ielts-syllabus/][IETLS teaching syllabus @Blog]]
+  - [[https://www.youtube.com/playlist?list=PL-oYKB0D9-E20WQvE1PQviuqf_VdLdnd0][How to teach IELTS @Youtube]]
